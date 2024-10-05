@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/quantico_regular" />  <!-- Matches the renamed file -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="400"
+        android:font="@font/quantico_italic" />  <!-- Matches the renamed file -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/quantico_bold" />     <!-- Matches the renamed file -->
+    <font
+        android:fontStyle="italic"
+        android:fontWeight="700"
+        android:font="@font/quantico_bolditalic" /> <!-- Matches the renamed file -->
+</font-family>
